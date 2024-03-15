@@ -1,3 +1,9 @@
+- 👋 Olá, meu nome é Bruno Favaro
+- 👀 Tenho interesse: em programação em geral pyhton, c++, c#, HTML, CSS e PHP
+- 🌱 Atualmente estou aprendendo: Python, HTML, CSS e PHP
+- 💞️ Estou querendo colaborar em qualquer coisa huehue
+- 📫 Endereço de contato: favarofotografia@gmail.com
+
 - 👋 Hi, I’m Bruno Favaro
 - 👀 I'm interested: in programming in general pyhton, c++, c#, HTML, CSS and PHP
 - 🌱 I'm currently learning: Python, HTML, CSS and PHP
